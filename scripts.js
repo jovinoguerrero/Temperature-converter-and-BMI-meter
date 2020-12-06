@@ -71,7 +71,7 @@ for(let i = 0; i < array1.length; i++){
         maiorNum = array1[i];
     }
 }
-console.log(maiorNum)
+console.log("Número maior do array [2, 4, 7, 34, 76, 92]: "+maiorNum)
 
 // Exercício 5. Ache o menor número da lista [-1, -5, 56, 34, 91].
 let array2 = [-1, -5, 56, 34, 91];
@@ -82,4 +82,4 @@ for(let i = 0; i < array2.length; i++){
         menorNum = array2[i];
     }
 }
-console.log(menorNum)
+console.log("Número menor do array [-1, -5, 56, 34, 91]: "+menorNum)
